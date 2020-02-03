@@ -5,3 +5,6 @@ npm install -g express-generator
 
 Instalando todas as dependencias:
 npm install 
+
+Commit com mensagem padrão deploy
+git commit -m deploy
