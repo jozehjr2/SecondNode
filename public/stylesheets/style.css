@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.bg-all-page {
+  background-color: chocolate;
+
+}
+
+.div-conteudo{
+  background-color: darkkhaki;
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 0;
+  padding: 1%;
+  border-left: black solid 1px;
+  border-right: black solid 1px;
+}
+
+.div-header {
+  background-color: darksalmon;
+  margin-top: 0;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-bottom: 0.5%;
+}

@@ -1,0 +1,7 @@
+Instalar extensões, plugins, componentes adicionais.
+
+Adicionando o Express Generator:
+npm install -g express-generator 
+
+Instalando todas as dependencias:
+npm install 
